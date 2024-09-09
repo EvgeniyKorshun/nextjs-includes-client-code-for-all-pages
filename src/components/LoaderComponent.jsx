@@ -1,5 +1,3 @@
-
-
 export const LoaderComponent = async ({ slug }) => {
   if(slug === 'page1') {
     return await (import ("./ServerComponent1")).then(component => component.default())
