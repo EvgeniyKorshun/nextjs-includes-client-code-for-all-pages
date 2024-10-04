@@ -6,9 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^15.0.0-canary.146",
-    "react": "19.0.0-rc-7771d3a7-20240827",
-    "react-dom": "19.0.0-rc-7771d3a7-20240827"
+    "next": "15.0.0-canary.177",
+    "react": "19.0.0-rc-2d16326d-20240930",
+    "react-dom": "19.0.0-rc-2d16326d-20240930",
+    "server-only": "^0.0.1"
   },
   "devDependencies": {
     "@types/node": "20.12.12",
